@@ -18,6 +18,7 @@ CRM and retention support, affiliate and marketing reporting, web design and AI 
 | [Affiliate reporting demo](https://affiliate-demo-six.vercel.app) | Affiliate performance reporting demo on synthetic data |
 | [ERP-connected webshop](https://github.com/zoltankothencz-design/erp-webshop-minta) ([demo](https://zoltankothencz-design.github.io/erp-webshop-minta/demo/)) | PHP/MySQL sample system with marketplace and Google Ads integration, 24 automated tests, documented step by step (Hungarian) |
 | [Marveen (fork)](https://github.com/zoltankothencz-design/marveen) | Production fork of an open-source AI agent framework. Core is the original author's; the README lists my own commits (scheduling reliability, VPS migration, dashboard) |
+| [Motion design portfolio](https://zoltankothencz-design.github.io/motion-design-portfolio/) ( [code](https://github.com/zoltankothencz-design/motion-design-portfolio)) | Silent motion design videos for web interfaces: an iGaming Power BI report opener and company website videos. |
 
 ## Contact
 
