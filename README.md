@@ -1,6 +1,6 @@
 # Zoltán Kothencz
 
-CRM and retention support, affiliate and marketing reporting, and AI automation for iGaming. I come from casino-floor reporting, and I build with Claude Code and other AI tools.
+CRM and retention support, affiliate and marketing reporting, web design and AI automation for iGaming. I come from casino-floor reporting, and I build with Claude Code and other AI tools.
 
 ## What I work on
 
