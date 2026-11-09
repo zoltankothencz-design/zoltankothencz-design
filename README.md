@@ -12,7 +12,7 @@ CRM and retention support, affiliate and marketing reporting, web design and AI 
 
 | Project | What it is |
 |---|---|
-| [AI-native portfolio](https://github.com/zoltankothencz-design/ai-native-portfolio) | Thirteen demo projects: SQL funnel, window functions and cohort LTV on synthetic player data, an iGaming operations report in Power BI, a Claude API ticket-triage agent, webhook integration |
+| [AI-native portfolio](https://github.com/zoltankothencz-design/ai-native-portfolio) | Fourteen demo projects: a complete A/B test (sample size, SQL randomisation, SRM check, decision rule), SQL funnel, window functions and cohort LTV on synthetic player data, an iGaming operations report in Power BI, a Claude API ticket-triage agent, webhook integration |
 | [Reward Kit](https://zoltankothencz-design.github.io/reward-kit/) ([code](https://github.com/zoltankothencz-design/reward-kit)) | Code-first design system for reward and gamification mechanics: level bars, streaks, prize wheel, a reward-economy calculator, Figma variables generated from the same tokens |
 | [iGaming salary dashboard](https://igaming-salary-dashboard.vercel.app) | Live salary benchmarks for iGaming roles, with hand-sourced data |
 | [Affiliate reporting demo](https://affiliate-demo-six.vercel.app) | Affiliate performance reporting demo on synthetic data |
